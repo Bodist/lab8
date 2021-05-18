@@ -1,5 +1,3 @@
-package bsu.rfe.java.group8.lab8.Yury.varA4.servlets;
-
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Calendar;
@@ -7,7 +5,7 @@ import java.util.Calendar;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import bsu.rfe.java.group8.lab8.Yury.varA4.entity.ChatMessage;
+import bsu.rfe.java.group8.lab8.varA4.entity.ChatMessage;
 
 public class MessageListServlet extends ChatServlet {
 

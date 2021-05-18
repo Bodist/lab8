@@ -1,5 +1,3 @@
-package bsu.rfe.java.group8.lab8.Yury.varA4.servlets;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import javax.servlet.ServletException;

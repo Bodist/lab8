@@ -1,5 +1,3 @@
-package bsu.rfe.java.group8.lab8.Yury.varA4.entity;
-
 public class ChatMessage {
     // Текст сообщения
     private String message;
